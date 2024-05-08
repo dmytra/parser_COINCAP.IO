@@ -4,10 +4,10 @@ parser COINCAP.IO at api.coincap.io
 
 STADY projekt: parser COINCAP.IO at api.coincap.io
 
-проект остановлен на начальном этапе, но первые тести рабочие! // The project has been stopped at the initial stage, but the first tests are working! //
+проект остановлен на начальном этапе, но первые тесты рабочие! // The project has been stopped at the initial stage, but the first tests are working! //
 
 очень большой обьем - 100 баз данных api.coincap.io https://coincap.io/
-и до каяества официального приложения https://play.google.com/store/apps/details?id=io.coinCap.coinCap
+и до качества официального приложения https://play.google.com/store/apps/details?id=io.coinCap.coinCap
 нереально  приблизиться!!!
 
 **СДЕЛАНО:**
