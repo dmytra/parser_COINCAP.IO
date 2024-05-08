@@ -22,4 +22,5 @@ STADY projekt: parser COINCAP.IO at api.coincap.io
                             <a href=https://github.com/qyvlik/Chart.qml>https://github.com/qyvlik/Chart.qml</a><br>
                             </div>"
 
-![Screenshot-2024-05-09-at-01 06 48](https://github.com/dmytra/parser_COINCAP.IO/assets/105235692/806db9d0-8fae-49ac-baf7-8ab3daef670a)
+![Screenshot-2024-05-09-at-01 06 48](https://github.com/dmytra/parser_COINCAP.IO/assets/105235692/9676c7ce-82cc-4bc1-84fe-7dce30e43e6f)
+
