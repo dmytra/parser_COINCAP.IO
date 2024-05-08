@@ -18,8 +18,7 @@ STADY projekt: parser COINCAP.IO at api.coincap.io
                             2 TASK: write data to MySQL database SqlLiteDatabase.cpp<br>
                             3 TASK: prepare all MVC process in mainwindow.cpp<br>
                             4 TASK: view data in QML (prepare QML controller in main.cpp)<br>
-                            5 TASL: view data in chart.js<br>
-                            <a href=https://github.com/qyvlik/Chart.qml>https://github.com/qyvlik/Chart.qml</a><br>
+                            5 TASL: view data in chart.js<br> examples : <a href=https://github.com/qyvlik/Chart.qml>https://github.com/qyvlik/Chart.qml</a><br>
                             </div>"
 
  
