@@ -1,6 +1,6 @@
 # parser_COINCAP.IO
-parser COINCAP.IO at api.coincap.io
 
+**TODO: все переделать! нетольео модель MVC но и тести нагрузок, а от них перейти к модели!**
 
 STADY projekt: parser COINCAP.IO at api.coincap.io
 
@@ -15,7 +15,7 @@ STADY projekt: parser COINCAP.IO at api.coincap.io
 <div>online database 100 coin DATA API<br>
                             <a href=https://api.coincap.io/v2/assets>https://api.coincap.io/v2/assets</a><br>
                             1 TASK: get data from API apirest.cpp<br>
-                            2 TASK: write data to MySQL database SqlLiteDatabase.cpp<br>
+                            2 TASK: write data to SQLlite database SqlLiteDatabase.cpp<br>
                             3 TASK: prepare all MVC process in mainwindow.cpp<br>
                             4 TASK: view data in QML (prepare QML controller in main.cpp)<br>
                             5 TASL: view data in chart.js<br> examples : <a href=https://github.com/qyvlik/Chart.qml>https://github.com/qyvlik/Chart.qml</a><br>
